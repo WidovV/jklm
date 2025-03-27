@@ -1,0 +1,12 @@
+# ninja log v6
+45	906	7647863957578975	CMakeFiles/jklm.dir/helpers.cpp.obj	98621326cda3b355
+9	1614	7647865309893140	CMakeFiles/jklm.dir/jklm.cpp.obj	7165c0a7bb418f7f
+38	2582	7647863957435269	CMakeFiles/jklm.dir/Dictionary/dictionaryapi.cpp.obj	24c28e7abfc6a1aa
+22	412	7647865799448771	CMakeFiles/jklm.dir/Dictionary/dictionarystructure.cpp.obj	b75d0fdcce4b687f
+18	590	7647866104670828	CMakeFiles/jklm.dir/Database/database.cpp.obj	788e18d1830272b8
+4	21	7647867848146773	clean	3f9b83505c84670f
+46	485	7647867848877082	CMakeFiles/jklm.dir/Dictionary/dictionarystructure.cpp.obj	b75d0fdcce4b687f
+39	609	7647867848817947	CMakeFiles/jklm.dir/helpers.cpp.obj	98621326cda3b355
+22	823	7647867848636982	CMakeFiles/jklm.dir/Database/database.cpp.obj	788e18d1830272b8
+5	2149	7647867848474541	CMakeFiles/jklm.dir/jklm.cpp.obj	7165c0a7bb418f7f
+31	2854	7647867848738296	CMakeFiles/jklm.dir/Dictionary/dictionaryapi.cpp.obj	24c28e7abfc6a1aa
